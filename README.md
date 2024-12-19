@@ -1,4 +1,4 @@
-# python_project_1
+# AI_Project1_Health_AQI_Economics
 
 ## Table of Contents
 * [Research Question](#research-question)
